@@ -7,5 +7,5 @@ public class StringUtilTest {
     public void repeat_string_once(){
         Assert.assertEquals("Hola", StringUtil.repeat("hola", 1));
     }
-    
+
 }
