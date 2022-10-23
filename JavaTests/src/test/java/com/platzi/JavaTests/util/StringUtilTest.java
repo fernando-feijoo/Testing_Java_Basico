@@ -22,8 +22,4 @@ public class StringUtilTest {
     public void repeat_string_negative_times(){
         StringUtil.repeat("hola", -1);
     }
-<<<<<<< HEAD
-
-=======
->>>>>>> fc2bdde6d66a7a04a4ad3ab75c6ecca357cfe980
 }
